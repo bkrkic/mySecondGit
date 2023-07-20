@@ -2,10 +2,10 @@
 ## A subheading
 A sample `description`    
 This description has some variable `  
-This is a [link](https://google.com) to view the Google website.
+This is a [link](https://google.com) to view the Google website.  
 
+Install Instructions
 ```sh
-Install Instructions:
 1. Do this..
 2. Do this..
 3. Do this..
